@@ -1,0 +1,26 @@
+while(While the bus is not coming or if the upcoming bus is not the 23)
+{
+	wait for the bus;
+	take the bus;
+}
+while(While the bus stop is not Yaletown Roundhouse yet)
+{
+	Stay on the bus;
+	Exit the bus and enter the Skytrain station;
+}
+while(If the upcoming Skytrains are not for waterfront)
+{
+	Wait for the skytrain;
+	Take the skytrain;
+}
+for(var i=0;i<=2;i++)
+{
+	Stay on the skytrain;
+	Exit the skytrain and exit the skytrain station too;
+}
+if(school is open)
+{
+	Enter the school;
+}
+else
+	go back home;
