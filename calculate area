@@ -1,0 +1,44 @@
+AREA OF CIRCLE
+
+Take the input/output variables
+
+var area, radius;
+
+input
+Enter the radius of circle;
+
+process
+area = pi * radius;
+
+output
+area;
+
+AREA OF TRIANGLE
+
+Take the input/output variables
+
+var area, height, base;
+
+input
+Enter the height, base of triangle;
+
+process
+area = height * base/2;
+
+output
+area;
+
+AREA OF RECTANGLE
+
+Take the input/output variables
+
+var area, length, width;
+
+input
+Enter the length, width of triangle;
+
+process
+area = length * width;
+
+output
+area;
