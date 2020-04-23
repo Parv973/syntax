@@ -1,0 +1,19 @@
+Taking Variables and Data Input: 
+
+Take three numbers and a average variable.
+var num1, num2, num3, avg;
+
+
+Now enter any three numbers.
+
+
+Process:
+Add all three numbers and divide the sum by 3.
+
+avg = (num1 + num2 + num3)/3;
+
+
+Output:
+Print the average of 3 numbers;
+
+avg; 
