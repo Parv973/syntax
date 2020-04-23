@@ -1,0 +1,23 @@
+Taking variables:
+
+Enter the number,
+Factorial = 1 (initialize by 1)
+
+Process:
+
+In for loop, initialization is equal to the Entered number(i=n)
+Testing will run till 'i' is lesser than equal to 1 (i>=1) 
+Decrement in i (i--)
+
+
+Then, put the multiplication formula (fact = fact * i;)
+
+for(i=n;i>=1;i--)
+{
+	fact = fact * i;
+}
+
+Output:
+Print the result outside the loop
+
+
